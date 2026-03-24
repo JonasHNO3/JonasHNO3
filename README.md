@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Upgrading the audio system in my Kia Ceed (DSP tuning, clean wiring, soundproofing) and working on my bachelor’s thesis about structural frames using aluminum/steel square tubing.<br><br>👯 I’m looking to collaborate on<br>Open‑source projects related to automotive engineering, mechatronics, or embedded systems, and small tools for car audio calculations (enclosures, wiring, fusing).<br><br>🤝 I’m looking for help with<br>Best practices for clean Git workflows as a student and better project structure for technical DIY projects and documentation.<br><br>🌱 I’m currently learning<br>Advanced automotive electronics (measurements, troubleshooting, protection) and the basics of FEM and mechanical calculations for frame structures.<br><br>💬 Ask me about<br>Car audio installations, DSP configuration, and soundproofing cars, as well as mechatronics studies, hands‑on projects, and tool recommendations.<br><br>⚡ Fun fact<br>I’d rather rebuild an entire wiring harness than live with a half‑finished setup.
+## 🧑‍🔧 About Me
+
+### 🔭 I’m currently working on
+Upgrading the audio system in my Kia Ceed (DSP tuning, clean wiring, soundproofing) and working on my bachelor’s thesis about structural frames using aluminum/steel square tubing.
+
+### 👯 I’m looking to collaborate on
+Open‑source projects related to automotive engineering, mechatronics, or embedded systems, and small tools for car audio calculations (enclosures, wiring, fusing).
+
+### 🤝 I’m looking for help with
+Best practices for clean Git workflows as a student and better project structure for technical DIY projects and documentation.
+
+### 🌱 I’m currently learning
+Advanced automotive electronics (measurements, troubleshooting, protection) and the basics of FEM and mechanical calculations for frame structures.
+
+### 💬 Ask me about
+Car audio installations, DSP configuration, and soundproofing cars, as well as mechatronics studies, hands‑on projects, and tool recommendations.
+
+### ⚡ Fun fact
+I’d rather rebuild an entire wiring harness than live with a half‑finished setup.
 
 
 ## 🌐 Socials:
